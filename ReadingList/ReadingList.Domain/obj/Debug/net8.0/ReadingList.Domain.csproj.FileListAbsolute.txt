@@ -1,0 +1,11 @@
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\bin\Debug\net8.0\ReadingList.Domain.deps.json
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\bin\Debug\net8.0\ReadingList.Domain.dll
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\bin\Debug\net8.0\ReadingList.Domain.pdb
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ReadingList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ReadingList.Domain.AssemblyInfoInputs.cache
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ReadingList.Domain.AssemblyInfo.cs
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ReadingList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ReadingList.Domain.dll
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\refint\ReadingList.Domain.dll
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ReadingList.Domain.pdb
+C:\Users\mmaciuc\source\repos\ReadingList\ReadingList.Domain\obj\Debug\net8.0\ref\ReadingList.Domain.dll

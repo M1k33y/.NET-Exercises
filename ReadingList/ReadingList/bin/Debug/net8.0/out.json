@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Title": "Book One",
+    "Author": "Author A",
+    "Year": 2020,
+    "Pages": 300,
+    "Genre": "fiction",
+    "Finished": true,
+    "Rating": 4.5
+  },
+  {
+    "Id": 2,
+    "Title": "Book Two",
+    "Author": "Author B",
+    "Year": 2021,
+    "Pages": 250,
+    "Genre": "fiction",
+    "Finished": false,
+    "Rating": 0
+  }
+]

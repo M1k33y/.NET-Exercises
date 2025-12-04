@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234D10F9-B548-4C8D-9426-071C085DA8DE}|ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist.infrastructure\\readinglist.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{234D10F9-B548-4C8D-9426-071C085DA8DE}|ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj|solutionrelative:readinglist.infrastructure\\readinglist.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\readinglist.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\readinglist.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ED383E-8935-4C35-9260-38C789E35739}|ReadingList.Domain\\ReadingList.Domain.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist.domain\\readinglist.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00ED383E-8935-4C35-9260-38C789E35739}|ReadingList.Domain\\ReadingList.Domain.csproj|solutionrelative:readinglist.domain\\readinglist.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB68F574-02EB-4ACB-944E-8DC854FDAC23}|ReadingList.Tests\\ReadingList.Tests.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist.tests\\readinglist.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB68F574-02EB-4ACB-944E-8DC854FDAC23}|ReadingList.Tests\\ReadingList.Tests.csproj|solutionrelative:readinglist.tests\\readinglist.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234D10F9-B548-4C8D-9426-071C085DA8DE}|ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234D10F9-B548-4C8D-9426-071C085DA8DE}|ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj|solutionrelative:readinglist.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\commandrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\commandrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ED383E-8935-4C35-9260-38C789E35739}|ReadingList.Domain\\ReadingList.Domain.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00ED383E-8935-4C35-9260-38C789E35739}|ReadingList.Domain\\ReadingList.Domain.csproj|solutionrelative:readinglist.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB68F574-02EB-4ACB-944E-8DC854FDAC23}|ReadingList.Tests\\ReadingList.Tests.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB68F574-02EB-4ACB-944E-8DC854FDAC23}|ReadingList.Tests\\ReadingList.Tests.csproj|solutionrelative:readinglist.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\commands\\bookcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\commands\\bookcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\commands\\statscommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\commands\\statscommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\commandloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\commandloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\commands\\importcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\commands\\importcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\commands\\exportcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\commands\\exportcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|c:\\users\\mmaciuc\\source\\repos\\readinglist\\readinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39C5608-57CB-4CEA-9AC2-287928A965E4}|ReadingList\\ReadingList.App.csproj|solutionrelative:readinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadingList.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj",
+              "RelativeToolTip": "ReadingList.Infrastructure\\ReadingList.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T12:47:07.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadingList.Domain",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Domain\\ReadingList.Domain.csproj",
+              "RelativeDocumentMoniker": "ReadingList.Domain\\ReadingList.Domain.csproj",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Domain\\ReadingList.Domain.csproj",
+              "RelativeToolTip": "ReadingList.Domain\\ReadingList.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T12:46:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadingList.App",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\ReadingList.App.csproj",
+              "RelativeDocumentMoniker": "ReadingList\\ReadingList.App.csproj",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\ReadingList.App.csproj",
+              "RelativeToolTip": "ReadingList\\ReadingList.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T12:46:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadingList.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Tests\\ReadingList.Tests.csproj",
+              "RelativeDocumentMoniker": "ReadingList.Tests\\ReadingList.Tests.csproj",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Tests\\ReadingList.Tests.csproj",
+              "RelativeToolTip": "ReadingList.Tests\\ReadingList.Tests.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T12:41:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ReadingList.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ReadingList.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:09:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ReadingList.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Domain\\Class1.cs",
+              "RelativeToolTip": "ReadingList.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:09:19.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ReadingList.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ReadingList.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:03:26.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Program.cs",
+              "RelativeDocumentMoniker": "ReadingList\\Program.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Program.cs",
+              "RelativeToolTip": "ReadingList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:09:50.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookCommands.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\BookCommands.cs",
+              "RelativeDocumentMoniker": "ReadingList\\Commands\\BookCommands.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\BookCommands.cs",
+              "RelativeToolTip": "ReadingList\\Commands\\BookCommands.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFEAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:26:09.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandRouter.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\CommandRouter.cs",
+              "RelativeDocumentMoniker": "ReadingList\\CommandRouter.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\CommandRouter.cs",
+              "RelativeToolTip": "ReadingList\\CommandRouter.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:24:21.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommandLoop.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\CommandLoop.cs",
+              "RelativeDocumentMoniker": "ReadingList\\CommandLoop.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\CommandLoop.cs",
+              "RelativeToolTip": "ReadingList\\CommandLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:23:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImportCommands.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\ImportCommands.cs",
+              "RelativeDocumentMoniker": "ReadingList\\Commands\\ImportCommands.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\ImportCommands.cs",
+              "RelativeToolTip": "ReadingList\\Commands\\ImportCommands.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:24:36.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatsCommands.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\StatsCommands.cs",
+              "RelativeDocumentMoniker": "ReadingList\\Commands\\StatsCommands.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\StatsCommands.cs",
+              "RelativeToolTip": "ReadingList\\Commands\\StatsCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:26:49.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExportCommands.cs",
+              "DocumentMoniker": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\ExportCommands.cs",
+              "RelativeDocumentMoniker": "ReadingList\\Commands\\ExportCommands.cs",
+              "ToolTip": "C:\\Users\\mmaciuc\\source\\repos\\ReadingList\\ReadingList\\Commands\\ExportCommands.cs",
+              "RelativeToolTip": "ReadingList\\Commands\\ExportCommands.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:27:19.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
