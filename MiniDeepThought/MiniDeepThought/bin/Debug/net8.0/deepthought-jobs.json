@@ -1,0 +1,72 @@
+[
+  {
+    "jobId": "5c1f9fba-95a8-47bf-9dca-dcba30d653c9",
+    "questionText": "What are u doing?",
+    "algorithmKey": "Trivial",
+    "status": 2,
+    "progress": 100,
+    "createdUtc": "2025-12-04T09:22:41.5156292Z",
+    "completedUtc": "2025-12-04T09:22:41.6607798Z",
+    "result": {
+      "answer": "42",
+      "summary": "The ultimate answer revealed instantly.",
+      "durationMs": 0
+    }
+  },
+  {
+    "jobId": "589ab555-7433-47e4-b14c-25d3bb612d71",
+    "questionText": "What are you doing?",
+    "algorithmKey": "Trivial",
+    "status": 2,
+    "progress": 100,
+    "createdUtc": "2025-12-04T09:23:49.6623639Z",
+    "completedUtc": "2025-12-04T09:23:49.6837058Z",
+    "result": {
+      "answer": "42",
+      "summary": "The ultimate answer revealed instantly.",
+      "durationMs": 0
+    }
+  },
+  {
+    "jobId": "92abce84-a83a-4071-bc95-a6fbb801bf53",
+    "questionText": "What are you doing?",
+    "algorithmKey": "SlowCount",
+    "status": 2,
+    "progress": 100,
+    "createdUtc": "2025-12-04T09:26:12.3892203Z",
+    "completedUtc": "2025-12-04T09:26:18.6285673Z",
+    "result": {
+      "answer": "42",
+      "summary": "Counted thoughtfully to discover the answer.",
+      "durationMs": 6214
+    }
+  },
+  {
+    "jobId": "915c54a5-37dd-4b39-8cc5-8fc9f98d0b8c",
+    "questionText": "ok",
+    "algorithmKey": "Trivial",
+    "status": 2,
+    "progress": 100,
+    "createdUtc": "2025-12-04T09:27:54.281781Z",
+    "completedUtc": "2025-12-04T09:27:54.2998845Z",
+    "result": {
+      "answer": "42",
+      "summary": "The ultimate answer revealed instantly.",
+      "durationMs": 0
+    }
+  },
+  {
+    "jobId": "fa2a6364-30b6-44c0-8ff6-1c1b0d356bb5",
+    "questionText": "whats app?",
+    "algorithmKey": "RandomGuess",
+    "status": 2,
+    "progress": 100,
+    "createdUtc": "2025-12-04T09:28:24.2776849Z",
+    "completedUtc": "2025-12-04T09:28:25.3144392Z",
+    "result": {
+      "answer": "42",
+      "summary": "Randomly selected from the cosmic shortlist.",
+      "durationMs": 1017
+    }
+  }
+]
