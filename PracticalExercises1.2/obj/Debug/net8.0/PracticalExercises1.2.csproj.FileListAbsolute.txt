@@ -1,0 +1,14 @@
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\bin\Debug\net8.0\PracticalExercises1.2.exe
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\bin\Debug\net8.0\PracticalExercises1.2.deps.json
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\bin\Debug\net8.0\PracticalExercises1.2.runtimeconfig.json
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\bin\Debug\net8.0\PracticalExercises1.2.dll
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\bin\Debug\net8.0\PracticalExercises1.2.pdb
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.AssemblyInfoInputs.cache
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.AssemblyInfo.cs
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.csproj.CoreCompileInputs.cache
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.dll
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\refint\PracticalExercises1.2.dll
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.pdb
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\PracticalExercises1.2.genruntimeconfig.cache
+C:\Users\mmaciuc\source\repos\PracticalExercises1.1\PracticalExercises1.2\obj\Debug\net8.0\ref\PracticalExercises1.2.dll

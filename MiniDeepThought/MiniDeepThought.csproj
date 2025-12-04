@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="tests\" />
+    <Folder Include="src\Domain\" />
+    <Folder Include="src\Util\" />
+    <Folder Include="src\Services\" />
+    <Folder Include="src\Strategies\" />
+  </ItemGroup>
+
+</Project>
